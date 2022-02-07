@@ -1,0 +1,17 @@
+C:\Users\Petr\Documents\Skola\01_Programovani\Kulecnik\Kulecnik\obj\Debug\Kulecnik.csprojResolveAssemblyReference.cache
+C:\Users\Petr\Documents\Skola\01_Programovani\Kulecnik\Kulecnik\obj\Debug\Kulecnik.MainForm.resources
+C:\Users\Petr\Documents\Skola\01_Programovani\Kulecnik\Kulecnik\obj\Debug\Kulecnik.csproj.GenerateResource.Cache
+C:\Users\Petr\Documents\Skola\01_Programovani\Kulecnik\Kulecnik\bin\Debug\Kulecnik.exe.config
+C:\Users\Petr\Documents\Skola\01_Programovani\Kulecnik\Kulecnik\bin\Debug\Kulecnik.exe
+C:\Users\Petr\Documents\Skola\01_Programovani\Kulecnik\Kulecnik\bin\Debug\Kulecnik.pdb
+C:\Users\Petr\Documents\Skola\01_Programovani\Kulecnik\Kulecnik\obj\Debug\Kulecnik.exe
+C:\Users\Petr\Documents\Skola\01_Programovani\Kulecnik\Kulecnik\obj\Debug\Kulecnik.pdb
+C:\Users\user\OneDrive\Skola\01_Programovani\Kulecnik\Kulecnik\bin\Debug\Kulecnik.exe.config
+C:\Users\user\OneDrive\Skola\01_Programovani\Kulecnik\Kulecnik\bin\Debug\Kulecnik.exe
+C:\Users\user\OneDrive\Skola\01_Programovani\Kulecnik\Kulecnik\bin\Debug\Kulecnik.pdb
+C:\Users\user\OneDrive\Skola\01_Programovani\Kulecnik\Kulecnik\obj\Debug\Kulecnik.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Skola\01_Programovani\Kulecnik\Kulecnik\obj\Debug\Kulecnik.MainForm.resources
+C:\Users\user\OneDrive\Skola\01_Programovani\Kulecnik\Kulecnik\obj\Debug\Kulecnik.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Skola\01_Programovani\Kulecnik\Kulecnik\obj\Debug\Kulecnik.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Skola\01_Programovani\Kulecnik\Kulecnik\obj\Debug\Kulecnik.exe
+C:\Users\user\OneDrive\Skola\01_Programovani\Kulecnik\Kulecnik\obj\Debug\Kulecnik.pdb
